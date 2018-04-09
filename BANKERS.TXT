@@ -7,6 +7,7 @@ clrscr();
 printf("\n Enter the number of resources : ");
 scanf("%d", &rz);
 printf("\n enter the max instances of each resources\n");
+//8437178295
 for(i=0;i<rz;i++)
 {  avail[i]=0;
 printf("%c= ",(i+97));
